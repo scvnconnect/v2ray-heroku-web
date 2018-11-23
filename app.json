@@ -24,12 +24,12 @@
        "value": "1"
      }, 
     "V2_Path": {
-       "description": "请输入Pattern（默认为 \"/shellscript\"）：",
-       "value": "/shellscript"
+       "description": "请输入Pattern（默认为 \"/v2\"）：",
+       "value": "/v2"
      },
     "V2_QR_Path": {
-       "description": "请输入二维码和订阅地址路径（默认为v2；如AppName变量为\"no\"，则此项无效）：",
-       "value": "v2"
+       "description": "请输入二维码和订阅地址路径（默认为 subscription ；如AppName变量为\"no\"，则此项无效）：",
+       "value": "subscription"
      },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "请输入每个连接的缓存大小（单位MB，默认10）：",
