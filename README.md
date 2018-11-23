@@ -1,7 +1,5 @@
-# V2Ray-HeroKu
 ## V2RAY EASY TO USE 
 ### OneKey to deploy: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-- - -
 - - -
 #### **Description**:
 1. Click on the url above to fill in the relevant information;
@@ -11,7 +9,6 @@
 
 Default QR code url: https://{appname}.herokuapp.com/subscription/qrcode.png <br/>
 Default subscription url: https://{appname}.herokuapp.com/subscription
-- - -
 - - -
 ## Based 
 [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) <br/>
