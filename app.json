@@ -8,7 +8,7 @@
        "value": "no"
      },
     "VER": {
-       "description": "请输入欲安装的V2Ray版本号（例如：\"3.36\"，默认安装最新V2Ray版本）：",
+       "description": "请输入欲安装的V2Ray版本号（例如：\"3.46\"，默认安装最新V2Ray版本）：",
        "value": "latest"
      },
     "UUID": {
@@ -28,8 +28,8 @@
        "value": "/shellscript"
      },
     "V2_QR_Path": {
-       "description": "请输入二维码和订阅地址路径（默认为subscription；如AppName变量为\"no\"，则此项无效）：",
-       "value": "subscription"
+       "description": "请输入二维码和订阅地址路径（默认为v2；如AppName变量为\"no\"，则此项无效）：",
+       "value": "v2"
      },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "请输入每个连接的缓存大小（单位MB，默认10）：",
