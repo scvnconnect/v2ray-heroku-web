@@ -64,7 +64,7 @@ cd "/root"
 mkdir "/wwwroot"
 cd "/wwwroot"
 
-wget -qO "demo.tar.gz" "https://github.com/shell-script/v2ray-heroku/raw/master/demo.tar.gz"
+wget -qO "demo.tar.gz" "https://github.com/miaomiaosoft/v2ray-heroku-web/raw/master/demo.tar.gz"
 tar xvf "demo.tar.gz"
 rm -f "demo.tar.gz"
 
