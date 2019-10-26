@@ -6,4 +6,5 @@ RUN apt update -y \
 
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
+RUN ls /
 CMD /entrypoint.sh
