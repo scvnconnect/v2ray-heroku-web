@@ -140,6 +140,9 @@ else
   echo -n "${vmess}" | qrencode -s 6 -o "/wwwroot/${V2_QR_Path}/qrcode.png"
 fi
 
+ls "/wwwroot/"
+ls "/wwwroot/${V2_QR_Path}"
+
 cd "/v2raybin"
 ./v2ray &
 cd "/caddybin"
