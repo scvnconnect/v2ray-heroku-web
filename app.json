@@ -12,8 +12,8 @@
        "value": "latest"
      },
     "UUID": {
-       "description": "请输入UUID（默认：自动生成 或 \"8b84f184-2521-4d02-b702-2ef09de6dd66\"）：",
-       "value": "8b84f184-2521-4d02-b702-2ef09de6dd66"
+       "description": "请输入UUID（默认：自动生成 或 \"a3a0d0b2-6d41-11ec-90d6-0242ac120003\"）：",
+       "value": "a3a0d0b2-6d41-11ec-90d6-0242ac120003"
      },
     "AlterID": {
        "description": "请输入AlterID（默认为10）：",
